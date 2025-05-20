@@ -57,8 +57,19 @@ Danos ao turismo, áreas naturais queimadas perdem beleza e atraem menos visitan
            <p>Comunidades afetadas, povos indígenas e ribeirinhos perdem suas terras e fontes de alimento.
 
 Conflitos por terra, muitas queimadas são criminosas, ligadas a desmatamento ilegal e grilagem.
+           <section id="consequências" class="conteudo">
+            <h2>Consequências</h2>
+            <article>
+            <h3>Consequências ambientas</h3>
+             <p>Destruição da Biodiversidade,Morte de animais (mamíferos, aves, répteis e insetos). Extinção de espécies endêmicas e perda de ecossistemas únicos.
 
+ Degradação do Solo,Redução da fertilidade do solo devido à perda de matéria orgânica. Aumento da erosão e desertificação em áreas intensamente queimadas.
 
+Alterações Climáticas,Liberação de gases de efeito estufa (CO₂, metano), agravando o aquecimento global. Redução da capacidade da floresta de absorver carbono (desmatamento diminui o "pulmão do mundo").
+
+Desregulação do Ciclo Hidrológico,Florestas como a Amazônia influenciam os regimes de chuvas no Brasil e na América do Sul. Queimadas reduzem a umidade, podendo causar secas mais intensas.
+             <h3>Impactos na Saúde Humana </h3>
+             
             <a href="" class="cta-button" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square" style="color: var(--text-color);"></i></a>
         </section>
 
