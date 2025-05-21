@@ -57,8 +57,7 @@ Danos ao turismo, áreas naturais queimadas perdem beleza e atraem menos visitan
            <p>Comunidades afetadas, povos indígenas e ribeirinhos perdem suas terras e fontes de alimento.
 
 Conflitos por terra, muitas queimadas são criminosas, ligadas a desmatamento ilegal e grilagem.</p>
-           <section id="consequências" class="conteudo">
-            <h2>Consequências</h2>
+            <h2>Consequências<section id="consequências" class="conteudo"></h2>
             <article>
             <h3>Consequências ambientas</h3>
              <p>Destruição da Biodiversidade,Morte de animais (mamíferos, aves, répteis e insetos). Extinção de espécies endêmicas e perda de ecossistemas únicos.
@@ -85,7 +84,27 @@ Desregulação do Ciclo Hidrológico,Florestas como a Amazônia influenciam os r
           <h3>Danos Irreversíveis</h3>
           <p> Florestas podem não se recuperar, biomas como a Amazônia podem virar savana (processo de "savanização").
 
- Extinção de espécies únicas, muitos animais e plantas só existem no Brasil e desaparecerão com as queimadas.
+ Extinção de espécies únicas, muitos animais e plantas só existem no Brasil e desaparecerão com as queimadas.</p>
+           <section id="Conclusão" class="conteudo">
+            <h2>Conclusão</h2>
+            <article>
+            <p>Destruição de ecossistemas únicos, como a Amazônia e o Cerrado, ameaçando a biodiversidade e acelerando as mudanças climáticas.
+
+Prejuízos à saúde pública, com aumento de doenças respiratórias e sobrecarga no sistema de saúde.
+
+Danos econômicos, desde perdas na agricultura até riscos de sanções internacionais devido ao desmatamento.
+
+Violação de direitos humanos, afetando povos indígenas, comunidades tradicionais e pequenos agricultores.</p>
+            <h3>Soluções</h3>
+            <p>Soluções urgentes são necessárias, como:
+ Fortalecimento de políticas ambientais e combate às queimadas ilegais.
+
+ Investimento em desenvolvimento sustentável, incluindo bioeconomia e energias renováveis.
+
+ Conscientização global, pois a preservação das florestas brasileiras é vital para o equilíbrio climático do planeta.</p>
+         <h3>O futuro das florestas depende de ações imediatas. Se nada for feito, os danos podem se tornar irreversíveis, afetando não só o Brasil, mas o mundo todo.</h3>
+         <p>Quer se aprofundar em alguma solução para ajudar o nosso planeta? Clique o link abaixo.
+
             <a href="" class="cta-button" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square" style="color: var(--text-color);"></i></a>
         </section>
 
