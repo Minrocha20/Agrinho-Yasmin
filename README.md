@@ -56,7 +56,7 @@ Danos ao turismo, áreas naturais queimadas perdem beleza e atraem menos visitan
            <h3>Impactos Sociais</h3>
            <p>Comunidades afetadas, povos indígenas e ribeirinhos perdem suas terras e fontes de alimento.
 
-Conflitos por terra, muitas queimadas são criminosas, ligadas a desmatamento ilegal e grilagem.
+Conflitos por terra, muitas queimadas são criminosas, ligadas a desmatamento ilegal e grilagem.</p>
            <section id="consequências" class="conteudo">
             <h2>Consequências</h2>
             <article>
@@ -67,9 +67,25 @@ Conflitos por terra, muitas queimadas são criminosas, ligadas a desmatamento il
 
 Alterações Climáticas,Liberação de gases de efeito estufa (CO₂, metano), agravando o aquecimento global. Redução da capacidade da floresta de absorver carbono (desmatamento diminui o "pulmão do mundo").
 
-Desregulação do Ciclo Hidrológico,Florestas como a Amazônia influenciam os regimes de chuvas no Brasil e na América do Sul. Queimadas reduzem a umidade, podendo causar secas mais intensas.
+Desregulação do Ciclo Hidrológico,Florestas como a Amazônia influenciam os regimes de chuvas no Brasil e na América do Sul. Queimadas reduzem a umidade, podendo causar secas mais intensas.</p>
              <h3>Impactos na Saúde Humana </h3>
+             <p>Doenças respiratórias, fumaça causa asma, bronquite e até mortes por poluição do ar.
              
+ Crise nos hospitais, períodos de queimadas aumentam internações, sobrecarregando o SUS.</p>
+            <h3>Prejuízos Econômicos</h3>
+            <p>Perda de recursos naturais, castanhas, açaí, plantas medicinais e madeira sustentável são destruídos.
+
+ Impacto na agricultura, secas reduzem produção de grãos (soja, milho) e afetam exportações.
+
+ Sanções internacionais, países e empresas podem boicotar produtos brasileiros devido ao desmatamento.</p>
+           <h3> Conflitos Sociais</h3>
+           <p> Ameaça a indígenas e ribeirinhos, queimadas destroem terras tradicionais, levando a conflitos e migrações forçadas.
+
+ Êxodo rural, agricultores pobres perdem terras produtivas, aumentando favelização nas cidades.</p>
+          <h3>Danos Irreversíveis</h3>
+          <p> Florestas podem não se recuperar, biomas como a Amazônia podem virar savana (processo de "savanização").
+
+ Extinção de espécies únicas, muitos animais e plantas só existem no Brasil e desaparecerão com as queimadas.
             <a href="" class="cta-button" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square" style="color: var(--text-color);"></i></a>
         </section>
 
