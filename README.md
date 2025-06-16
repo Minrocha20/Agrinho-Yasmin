@@ -35,4 +35,8 @@ Resumo dos impactos: Destaca a ameaça à biodiversidade, saúde pública, econo
 Soluções sugeridas: Fortalecimento de políticas ambientais, investimento em desenvolvimento sustentável e conscientização global.
 
 5. Vídeo: Inclui um link para um vídeo do YouTube, incentivando o visitante a aprender como ajudar o meio ambiente.
+<<<<<<< HEAD
 Esse conteúdo é informativo e propõe ações para mitigar os impactos das queimadas, com foco na conscientização e soluções urgentes
+=======
+Esse conteúdo é informativo e propõe ações para mitigar os impactos das queimadas, com foco na conscientização e soluções urgentes.
+>>>>>>> refs/remotes/origin/main
