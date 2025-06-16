@@ -1,6 +1,5 @@
-1. Cabeçalho (Header):
-Título: "Impacto das queimadas"
 
+<<<<<<< HEAD
 Imagem: Uma foto de uma floresta queimando.
 
 Descrição: Explica brevemente os efeitos das queimadas no meio ambiente e na saúde humana.
@@ -39,4 +38,6 @@ Soluções sugeridas: Fortalecimento de políticas ambientais, investimento em d
 Esse conteúdo é informativo e propõe ações para mitigar os impactos das queimadas, com foco na conscientização e soluções urgentes
 =======
 Esse conteúdo é informativo e propõe ações para mitigar os impactos das queimadas, com foco na conscientização e soluções urgentes.
+>>>>>>> refs/remotes/origin/main
+=======
 >>>>>>> refs/remotes/origin/main
